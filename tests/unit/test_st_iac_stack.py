@@ -1,7 +1,7 @@
 import aws_cdk as core
 import aws_cdk.assertions as assertions
 
-from st_iac.st_iac_stack import StIacStack
+from src.classes.st_iac.st_iac_stack import StIacStack
 
 # example tests. To run these tests, uncomment this file along with the example
 # resource in st_iac/st_iac_stack.py

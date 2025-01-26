@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import os
 from aws_cdk import App, Environment
-from st_iac.client import Client
+from src.classes.st_iac.client import Client
 
 app = App()
 
